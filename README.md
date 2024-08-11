@@ -1,0 +1,1 @@
+This is code needed to read and write the EEPROM of a BQ77PL900 BMS-chip. It also includes the  settings that I read off my BMS from a GOswissdrive green mover sportslite ANT battery, whos BMS was faulty (the settings are correct).
